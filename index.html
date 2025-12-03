@@ -1,19 +1,68 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Betzaidarecio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 40px;
-        }
-    </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Betzaida Recio de Santana (Betzy)</title>
+<style>
+:root{--bg:#f7f5f0; --card:#ffffff; --accent:#111111; --muted:#666; --btn:#000; --btn-hover:#222;}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:var(--bg);font-family:Arial,Helvetica,sans-serif}
+.card{width:360px;background:var(--card);border-radius:14px;box-shadow:0 8px 30px rgba(0,0,0,0.08);padding:28px;text-align:center}
+.logo{width:90px;height:90px;border-radius:18px;object-fit:contain;margin:0 auto 14px;display:block}
+h1{margin:6px 0 2px;font-size:20px;color:var(--accent)}
+p.sub{margin:0 0 16px;color:var(--muted)}
+.links{display:flex;flex-direction:column;gap:10px;margin-top:8px}
+a.btn{display:flex;align-items:center;justify-content:center;gap:10px;text-decoration:none;padding:12px;border-radius:10px;background:var(--btn);color:#fff;font-weight:600}
+a.btn.secondary{background:#f0f0f0;color:var(--accent);border:1px solid #e6e6e6}
+a.small{display:inline-block;margin-top:12px;color:var(--muted);text-decoration:none;font-size:14px}
+.icon{width:18px;height:18px;display:inline-block;vertical-align:middle}
+.download{margin-top:14px}
+.footer{font-size:12px;color:var(--muted);margin-top:12px}
+.container-center{display:flex;flex-direction:column;align-items:center}
+</style>
 </head>
 <body>
-    <h1>Betzaidarecio</h1>
-    <p>Página para mi QR profesional.</p>
+<div class="card" role="main">
+    <img src="logo.png" alt="Logo" class="logo" />
+    <h1>Betzaida Recio de Santana (Betzy)</h1>
+    <p class="sub">Conecta conmigo — rápida y directamente</p>
+
+    <div class="links">
+        <a class="btn" href="tel:+18094527734">
+            <span class="icon">📞</span><span>Llamar</span>
+        </a>
+        <a class="btn" href="mailto:betzaidarecio@gmail.com">
+            <span class="icon">✉️</span><span>Email</span>
+        </a>
+        <a class="btn" href="https://www.linkedin.com/in/betzaidarecio/" target="_blank" rel="noopener">
+            <span class="icon">🔗</span><span>LinkedIn</span>
+        </a>
+        <a class="btn" href="https://wa.me/18094527734" target="_blank" rel="noopener">
+            <span class="icon">💬</span><span>WhatsApp</span>
+        </a>
+        <a class="btn" href="https://calendar.google.com/calendar/r/eventedit?text=Reunión+con+Betzaida+Recio" target="_blank" rel="noopener">
+            <span class="icon">📅</span><span>Agendar reunión</span>
+        </a>
+    </div>
+
+    <div class="download container-center">
+        <a class="btn secondary" href="betzaida.vcf" download>
+            <span class="icon">💳</span><span>Descargar vCard</span>
+        </a>
+    </div>
+
+    <div class="footer">© Betzaida · <a class="small" href="https://betzyrecio55-1990.github.io/betzaidarecio/" target="_blank">Visitar landing</a></div>
+</div>
 </body>
 </html>
+
+BEGIN:VCARD
+VERSION:3.0
+N:Recio de Santana;Betzaida;;;
+FN:Betzaida Recio de Santana (Betzy)
+TEL;CELL:+18094527734
+EMAIL;TYPE=INTERNET:betzaidarecio@gmail.com
+EMAIL;TYPE=INTERNET:betzyrecio55@gmail.com
+URL:https://www.linkedin.com/in/betzaidarecio/
+END:VCARD
