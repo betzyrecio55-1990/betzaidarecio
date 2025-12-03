@@ -42,11 +42,11 @@ Incluye:
 
 | Tipo | Enlace |
 |------|--------|
-| 📞 **Llamar** | `tel:+521XXXXXXXXXX` |
-| ✉️ **Email** | mailto:betzyrecio55@gmail.com |
-| 💬 **WhatsApp** | https://wa.me/52XXXXXXXXXX |
-| 🔗 **LinkedIn** | https://linkedin.com/in/USERNAME |
-| 💼 **Portafolio** | https://tusitio.com |
+| 📞 **Llamar** | `tel:+18094527734` |
+| ✉️ **Email** | mailto:betzaidarecio@gmail.com |
+| 💬 **WhatsApp** | https://wa.me/+18094527734 |
+| 🔗 **LinkedIn** | https://linkedin.com/in/betzaidarecio |
+| 💼 **Portafolio** | https://betzyrecio55-1990.github.io/betzaidarecio/ |
 
 > *Reemplaza los datos con los correctos cuando quieras.*
 
