@@ -42,7 +42,7 @@ Incluye:
 ## 📬 Contacto Directo
 
 - 📧 **Correo:** betzaidarecio@gmail.com  
-- 💬 **WhatsApp:** +18094527734  
+- 📲 WhatsApp: +18094527734  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/betzaidarecio/  
 
 ---
