@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://YOUR_LOGO_URL_HERE.png" alt="Logo Betzy Recio" width="180" />
+  <img src="https://logo.png" alt="Logo Betzy Recio" width="180" />
 </p>
 
 <h1 align="center">✨ Betzy Recio | Analista & Ejecutiva de Ventas </h1>
