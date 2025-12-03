@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/betzyreio55-1990/betzaidarecio/main/logo.png" alt="Logotipo de Betzy Recio" width="150">
-</p>
+  <img src="https://raw.githubusercontent.com/betzyreio55-1990/betzaidarecio/main/logo.png" width="120" alt="Logo Betzy Recio">
 
 <h1 align="center">✨ Betzy Recio | Analista y Ejecutiva de Ventas</h1>
 
