@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/betzyreio55-1990/betzaidarecio/main/logo.png" width="180" alt="Logotipo de Betzy Recio">
+  <img src="https://raw.githubusercontent.com/betzyreio55-1990/betzaidarecio/main/logo.png" alt="Logotipo de Betzy Recio" width="150">
 </p>
 
 
